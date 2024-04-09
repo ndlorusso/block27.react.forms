@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+/* <------------- ADDED CSS -----------> */
+
+h2 {
+  color: chartreuse;
+}
+
+button {
+  color: chartreuse;
+}
+
+form {
+  color: chartreuse;
+}
+
