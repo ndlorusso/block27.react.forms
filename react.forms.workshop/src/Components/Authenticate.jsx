@@ -7,7 +7,7 @@ export default function Authenticate ({ token }) {
     console.log("Token", token);
 
     async function handleClick() {
-      const API = "https://fsa-jwt-practice.herokuapp.com/signup";
+      const API = "https://fsa-jwt-practice.herokuapp.com/authenticate";
 
         try {
           const response = await fetch (API,
